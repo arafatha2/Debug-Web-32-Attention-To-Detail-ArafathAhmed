@@ -1,0 +1,56 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  body{
+    background: #a298a9;
+  }
+p {
+  color: #1f1f1f;
+  font-style: fantasy;
+}
+h1 {
+  color: navy;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
+#dropdown{
+transition: height 2s;
+}
+#dropdown: hover{
+  height:450px;
+  z-index:1;
+}
+h3 {
+  color: navy;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: Helvetica, sans-serif;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
+#red{
+  border: 3px solid #c15353;
+  width: 30%;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+#green{
+  border: 3px solid #44872c;
+  width: 30%;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+#blue{
+  border: 3px solid #5382c1;
+  width: 30%;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
